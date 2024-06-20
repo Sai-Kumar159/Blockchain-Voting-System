@@ -9,6 +9,13 @@ Dive into the world of blockchain development by creating your very own decentra
 - Building a responsive frontend with Next.js
 - Connecting your DApp to the Ethereum network
 
+## Output Image
+
+after voting
+![image](https://github.com/Sai-Kumar159/Blockchain-Voting-System/assets/145687660/7538b2af-389c-4dde-9df4-423518cd939d)
+
+after electing candidates
+![image](https://github.com/Sai-Kumar159/Blockchain-Voting-System/assets/145687660/17ca7602-f6d8-4070-b892-938e321b007c)
 
 ## Instruction
 
