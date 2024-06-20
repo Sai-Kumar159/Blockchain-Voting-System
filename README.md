@@ -14,28 +14,10 @@ Dive into the world of blockchain development by creating your very own decentra
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/rp83FIpXyEY?si=XkOBP4yFGlpuwfTe)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
   GET: VsCode Editor
-```
-
-#### DEPLOYMENT
-
-- [Get $200 Credit](https://m.do.co/c/fbe1551c5ae1)
-
-```https://nodejs.org/en/download
-  PROVIDER: Digital Ocean
 ```
 
 #### NodeJs & NPM Version
@@ -137,18 +119,6 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   CREATE ACCOUNT: https://formspree.io/
   const [state, handleSubmit] = useForm("YOUR_KEY");
 ```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
 
 #### PACKAGE.JSON
 
