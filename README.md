@@ -9,17 +9,12 @@ Dive into the world of blockchain development by creating your very own decentra
 - Building a responsive frontend with Next.js
 - Connecting your DApp to the Ethereum network
 
-By the end of this tutorial, you’ll have a fully functional decentralized voting - system ready to be deployed on the blockchain. Subscribe and hit the bell icon to stay updated with the latest in blockchain development!
-
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/05/Building-Deploying-a-MERN-STACK-Blockchain-Music-Artists-Social-Media-Dapp.jpg)
 
 ## Instruction
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/building-and-deploying-a-full-mern-stack-blockchain-music-artists-social-media-dapp)
+
 
 #### Setup Video
 
